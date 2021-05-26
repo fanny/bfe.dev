@@ -11,6 +11,10 @@ function $(el) {
   }
 }
 
+// This is a builder pattern
+// return this works because we have a closure, in the lexical environment of the clojure
+// we have the variable el so when we return this we can have access to it
+
 const a = document.createElement('p')
 const wrapped = $(a)
 wrapped.css('color', '#fff')
