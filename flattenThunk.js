@@ -4,7 +4,6 @@
  * @return {Thunk}
  */
 function flattenThunk(thunk) {
-  // your code here
   return function (callback) {
     const helper = (error, data) => {
       if(!(data instanceof Function))
