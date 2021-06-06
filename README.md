@@ -18,3 +18,56 @@ My solutions to Big Front End dev problems
 | 12. | pipe                          | `js language`                                                                |
 | 13. | promise race                  | `advanced functions` `async`                                                 |
 | 14. | tagged templates              | `js language`                                                                |
+
+## Resources
+
+### General
+
+- https://javascript.info/
+
+### Event Loop & JavaScript Engine:
+
+- https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
+
+### Scope Chain, Closures, Hoisting:
+
+- https://dev.to/lydiahallie/javascript-visualized-hoisting-478h
+- https://ui.dev/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
+- https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd
+
+### Var, Let, Const:
+
+- https://ui.dev/var-let-const/
+- https://ui.dev/primitive-vs-reference-values-in-javascript/
+
+### Object Oriented Programming
+
+- https://ui.dev/javascript-inheritance-vs-composition/
+- https://ui.dev/javascript-inheritance-and-the-prototype-chain/
+- https://ui.dev/javascript-private-and-public-class-fields/
+- https://ui.dev/beginners-guide-to-javascript-prototype/
+- https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
+- https://ui.dev/this-keyword-call-apply-bind-javascript/
+
+### Async
+
+- https://ui.dev/async-javascript-from-callbacks-to-promises-to-async-await/
+- https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
+
+### Event Bubbling and Event Delegation
+
+- https://vsvaibhav2016.medium.com/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e
+- https://medium.com/@bretdoucette/part-4-what-is-event-delegation-in-javascript-f5c8c0de2983
+
+### Data Structures
+
+- https://ui.dev/object-array-destructuring/
+
+### Modules
+
+- https://ui.dev/javascript-modules-iifes-commonjs-esmodules/
+
+### Idiomatic JS
+
+- https://ui.dev/arrow-functions/
+- https://ui.dev/template-literals/
