@@ -1,3 +1,5 @@
+
+// WeakMap or Map it's probably better
 /**
  * @param {Function} func
  * @param {(args:[]) => string }  [resolver] - cache key generator
