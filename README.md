@@ -17,7 +17,8 @@ My solutions to Big Front End dev problems
 | 11. | object assign                 | `object` `js language`                                                       |
 | 12. | pipe                          | `js language`                                                                |
 | 13. | promise race                  | `advanced functions` `async`                                                 |
-| 14. | tagged templates              | `js language`                                                                |
+| 14. | promise all                   | `advanced functions` `async`                                                 |
+| 15. | tagged templates              | `js language`                                                                |
 
 ## Resources
 
